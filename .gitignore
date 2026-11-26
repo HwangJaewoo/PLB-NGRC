@@ -1,0 +1,8 @@
+# Results and data are archived on Zenodo (see README)
+experiments/*/data/
+experiments/*/results/
+timing/training_time.csv
+timing/computer.txt
+figures/img/
+*_log.txt
+*.asv
