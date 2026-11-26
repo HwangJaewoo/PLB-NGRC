@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software."
+title: "PLB-NGRC: code for Dual locality for data-driven prediction of spatiotemporal chaos with next-generation reservoir computing"
+authors:
+  - family-names: Hwang
+    given-names: Jaewoo
+    affiliation: "Ulsan National Institute of Science and Technology"
+  - family-names: Kim
+    given-names: Taeyoon
+    affiliation: "Kyungpook National University"
+  - family-names: Do
+    given-names: Younghae
+    affiliation: "Kyungpook National University"
+  - family-names: Lai
+    given-names: Ying-Cheng
+    affiliation: "Arizona State University"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/HwangJaewoo/PLB-NGRC"
