@@ -1,10 +1,10 @@
 # PLB-NGRC
 
-MATLAB code for parallel locality-blended next-generation reservoir computing (PLB-NGRC) and the baselines P-NGRC, LB-NGRC and parallel reservoir computing (P-RC), accompanying the paper
+MATLAB code for parallel locality-blended next-generation reservoir computing (PLB-NGRC) and the baselines P-NGRC, LB-NGRC and parallel reservoir computing (P-RC), accompanying the manuscript
 
 J. Hwang, T. Kim, Y. Do and Y.-C. Lai, *Dual locality for data-driven prediction of spatiotemporal chaos with next-generation reservoir computing*.
 
-The result files of the paper (selected hyperparameters, Bayesian optimization histories, predictions and measures) are archived on Zenodo: [https://doi.org/10.5281/zenodo.24548630](https://doi.org/10.5281/zenodo.24548630).
+The result files of the manuscript (selected hyperparameters, Bayesian optimization histories, predictions and measures) are archived on Zenodo: [https://doi.org/10.5281/zenodo.24548630](https://doi.org/10.5281/zenodo.24548630).
 
 ## Quick start: figures from the archived results
 
@@ -73,7 +73,7 @@ A result file of the model systems holds a structure `res` with the selected hyp
 
 ## Figures and tables
 
-Each script writes the figure of the paper with the same number to `figures/img/`. In the paper, the panels of Figs. 2 and 4-7 are arranged in a different layout and the labels are typeset again.
+Each script writes the figure of the manuscript with the same number to `figures/img/`. In the manuscript, the panels of Figs. 2 and 4-7 are arranged in a different layout and the labels are typeset again.
 
 | Figure | Script | Output |
 |---|---|---|
@@ -96,4 +96,4 @@ The model-system data are generated with fixed random seeds. The Z500 data are t
 
 ## License and citation
 
-The code is released under the MIT License (`LICENSE`). If you use it, please cite the paper above; the citation metadata of the code are in `CITATION.cff`.
+The code is released under the MIT License (`LICENSE`). If you use it, please cite this code (https://doi.org/10.5281/zenodo.24548886); the citation metadata of the code are in `CITATION.cff`.
